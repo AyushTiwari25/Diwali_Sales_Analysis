@@ -1,5 +1,5 @@
 # 🎇 **Diwali Sales Analysis** 🎇  
-🚀 *Unlocking Festive Shopping Patterns for Business Growth* 🚀
+🚀 *Unlocking Festive Shopping Patterns for Business Growth* 🚀                                
 
 Welcome to the **Diwali Sales Analysis** project! In this project, I’ve explored over **10,000+ rows** and **12 columns** of sales data to uncover hidden insights that help businesses understand customer behavior during the festive season. 📊💡
 
